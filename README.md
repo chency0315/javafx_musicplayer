@@ -1,4 +1,5 @@
 # javafx_musicplayer
+This is a mavenproject,
 A music player user interface 
 there are three interfaces main page, playlist, and search <br>
 1. main page - controls music
